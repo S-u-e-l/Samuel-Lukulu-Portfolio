@@ -411,7 +411,7 @@ export default function App() {
                 {/* CTAs */}
                 <div className="flex flex-wrap gap-3 sm:gap-4">
                   <a
-                    href="https://www.linkedin.com/in/samuel-lukulu/"
+                    href="https://www.linkedin.com/in/samuel-lukulu-987221339/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-emerald-600 text-white px-5 sm:px-6 py-3 rounded-full text-sm font-medium hover:bg-emerald-700 transition-colors"

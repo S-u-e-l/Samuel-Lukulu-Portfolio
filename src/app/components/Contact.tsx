@@ -10,7 +10,7 @@ type Props = {
 const MO = "'Montserrat', 'Inter', sans-serif";
 
 const contactDetails = [
-  { icon: Mail, label: "Email", value: "samuellukulu@gmail.com" },
+  { icon: Mail, label: "Email", value: "samuellisubila2@gmail.com" },
   { icon: MapPin, label: "Location", value: "Nairobi, Kenya" },
   { icon: Phone, label: "Available for", value: "Remote & Local Projects" },
 ];

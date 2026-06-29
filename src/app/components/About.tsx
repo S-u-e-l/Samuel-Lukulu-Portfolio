@@ -327,7 +327,7 @@ export function About({ onBack }: Props) {
                 <ArrowUpRight className="w-4 h-4" />
               </button>
               <a
-                href="https://www.linkedin.com/in/samuel-lukulu/"
+                href="https://www.linkedin.com/in/samuel-lukulu-987221339/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-emerald-700 text-white px-6 py-3.5 rounded-full text-sm font-medium hover:bg-emerald-800 transition-colors"
